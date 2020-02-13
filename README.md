@@ -38,26 +38,33 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
 
+   	
+Principais Comandos no GitBash
+	
+##pwd - para saber qual a pasta que você esta
+##cd nomedapasta - para entrar numa pasta
+##cd .. - para voltar uma pasta
+##cd ./nomedapasta - nome da pasta em que quero entrar
+##cd / - volta para a pasta raiz
+##cd ../.. - volta duas pastas
+##clear - limpar o terminal
+       - Ou ctrl l
+##cp nomedapastacopiada nomedapastacomacopia - copia de uma arquivo para outro
+##cat nomedoarquivo - para ver o que há dentro de um arquivo
+##ls - ver o que há dentro de uma pasta
+##mkdir - cria uma pasta/diretório
+##vim nomedoarquivo - para editar um arquivo
+       - tecla Insert - para escrever
+       - tecla ESC para parar
+       - :w para salvar
+       - :q para sair
+       - :wq  para salvar e sair
+##rm nomedoarquivo - para remover um arquivo
+##rmdir nomedapasta - para remover uma pasta
+##touch nomedoarquivo - cria um arquivo
+##exit - sair do terminal
+##help - vê todos os comando
+       - help nomedocomando - para ver sobre o comando
+##mv nomedoarquivo nomedapasta - move o arquivo para outro diretório
+##Ctrl c - interrompe processamento
 
-Principais Comandos dos GitBash
-
-        * pwd - para saber qual a pasta que você esta
-        * cd nomedapasta - para entrar numa pasta
-        * cd .. - para voltar uma pasta
-        * cd ./nomedapasta - nome da pasta em que quero entrar
-        * cd / - volta para a pasta raiz
-        * cd ../.. - volta duas pastas
-        * clear - limpar o terminal
-                - Ou ctrl l
-        * cp nomedapastacopiada nomedapastacomacopia - copia de uma arquivo para outro
-        * cat nomedoarquivo - para ver o que há dentro de um arquivo
-        * ls - ver o que há dentro de uma pasta
-        * mkdir - cria uma pasta/diretório
-        * vim nomedoarquivo - para editar um arquivo
-                - tecla Insert - para escrever
-                - tecla ESC para parar
-                - :w para salvar
-                - :q para sair
-                - :wq  para salvar e sair
-        * rm nomedoarquivo - para remover um arquivo
-        * rmdir nomedapasta - para remover uma pasta
